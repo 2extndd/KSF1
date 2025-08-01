@@ -12,7 +12,7 @@ kleinanzeigen_url = "https://www.kleinanzeigen.de"
 # Adapted for real Kleinanzeigen structure
 topics = {
     "GGL": {
-        "thread_id": 190,
+        "thread_id": 7831,
         "summary_count": 3,
         "query": {
             "categoryId": "156",
@@ -26,7 +26,7 @@ topics = {
         "require_shipping": True,
     },
     "Rick_Owens2": {
-        "thread_id": 275,
+        "thread_id": 7915,
         "summary_count": 3,
         "query": {
             "categoryId": "160,158,156",
@@ -40,7 +40,7 @@ topics = {
         "require_shipping": True,
     },
     "Rick_Owens": {
-        "thread_id": 275,
+        "thread_id": 7915,
         "summary_count": 3,
         "query": {
             "categoryId": "160,158,156",
@@ -110,7 +110,7 @@ topics = {
         "require_shipping": True,
     },
     "Raf_Simons": {
-        "thread_id": 305,
+        "thread_id": 7968,
         "summary_count": 3,
         "query": {
             "categoryId": "160,158,154",
@@ -124,7 +124,7 @@ topics = {
         "require_shipping": True,
     },
     "New_Rock": {
-        "thread_id": 348,
+        "thread_id": 7975,
         "summary_count": 3,
         "query": {
             "categoryId": "158",
@@ -138,7 +138,7 @@ topics = {
         "require_shipping": True,
     },
     "Alyx": {
-        "thread_id": 315,
+        "thread_id": 7844,
         "summary_count": 3,
         "query": {
             "categoryId": "160,158,154",
@@ -152,7 +152,7 @@ topics = {
         "require_shipping": True,
     },
     "Helmut_Lang": {
-        "thread_id": 344,
+        "thread_id": 7972,
         "summary_count": 3,
         "query": {
             "categoryId": "160,158",
@@ -180,7 +180,7 @@ topics = {
         "require_shipping": True,
     },
     "GG2": {
-        "thread_id": 190,
+        "thread_id": 7831,
         "summary_count": 3,
         "query": {
             "categoryId": "156",

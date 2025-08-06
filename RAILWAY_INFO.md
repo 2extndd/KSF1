@@ -12,7 +12,7 @@
 2. Войдите в аккаунт или создайте новый
 3. Нажмите "New Project"
 4. Выберите "Deploy from GitHub repo"
-5. Выберите репозиторий: `2extndd/KSF1`
+5. Выберите репозиторий: `2extndd/KFS2`
 
 ### 2. Настройка переменных окружения
 В Railway Dashboard добавьте следующие переменные:
@@ -96,5 +96,6 @@ railway restart
 ## 📞 Контакты
 
 - **Railway Key**: `9ea2e410-d869-47a1-8256-b03f48f0ee26`
-- **GitHub**: https://github.com/2extndd/KSF1
+- **GitHub (KFS2)**: https://github.com/2extndd/KFS2.git
+- **GitHub (KSF1)**: https://github.com/2extndd/KSF1.git
 - **Railway Dashboard**: https://railway.app/dashboard 
